@@ -1,0 +1,76 @@
+  950  git status
+  951  git commit -m "saveing progress on data cleaning"
+  952  git status
+  953  git add -A
+  954  git status
+  955  git commit -m "saving k4 model'\n"
+  956  git status
+  957  git stats=us
+  958  git status
+  959  git add - A
+  960  git add -A
+  961  git status
+  962  git commit -m "saving PCA optimal clusters and k"
+  963  git status
+  964  git add -A
+  965  git status
+  966  git commit -m "saving PCA clusters and optimal k"
+  967  git status
+  968  git status
+  969  git add -A
+  970  git status
+  971  git commit -m "saving PCA scatter plot"
+  972  git status
+  973  git add -A
+  974  git status
+  975  git commit -m "saving composite plots and final analysis"
+  976  git status
+  977  list conda
+  978  git status
+  979  git add -A
+  980  git status
+  981  git commit -m "added images folder and updated readme"
+  982  history 1100 > terminal_history.txt
+  983  history 950 > terminal_history.txt
+  984  git status
+  985  git add -A
+  986  git status
+  987  git commit -m "added terminal history txt file"
+  988  git status
+  989  git add -A
+  990  git status
+  991  git commit -m "modified readme"
+  992  git status
+  993  git push
+  994  conda activate dev
+  995  pip install --upgrade tensorflow
+  996  python -c "import tensorflow as tf;print(tf.__version__)"
+  997  cd ..
+  998  cd class_folder
+  999  git pull
+ 1000  conda list tensorflow
+ 1001  cd desktop
+ 1002  cd fintech-workspace
+ 1003  git clone git@github.com:mbf2139/E-Comm_ML.git
+ 1004  cd e-comm_ml
+ 1005  open .
+ 1006  git status
+ 1007  git add -A
+ 1008  git status
+ 1009  git commit -m "updated gitignore and added starter files"
+ 1010  git push
+ 1011  git status
+ 1012  git status
+ 1013  cd ..
+ 1014  cd class_folder
+ 1015  git pull
+ 1016  cd ..
+ 1017  cd e-comm_ml
+ 1018  conda activate dev
+ 1019  git pull
+ 1020  git status
+ 1021  git add -A
+ 1022  git status
+ 1023  git commit -m "updated readme and added corresponding images folder"
+ 1024  voila forecasting_net_prophet.ipynb
+ 1025  history 1050 > terminal_history.txt
